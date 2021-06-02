@@ -1,3 +1,7 @@
+# 自定义
+增加自动根据文件名创建title字段:
+如果md没有指定title, 则使用文件名作为title
+
 # hexo-directory-category
 [![Build Status](https://travis-ci.org/zthxxx/hexo-directory-category.svg)](https://travis-ci.org/zthxxx/hexo-directory-category)
 [![Coverage Status](https://coveralls.io/repos/github/zthxxx/hexo-directory-category/badge.svg)](https://coveralls.io/github/zthxxx/hexo-directory-category)
